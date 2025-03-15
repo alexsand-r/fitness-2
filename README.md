@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Fitness App Website
 <p align="center">
-  <img src="img/Screenshot_10.png" alt="Image 1" width="1200" height="400">
+  <img src="img/Screenshot_10.png" alt="Image 1" width="1200" height="600">
 
 </p>
  # Adaptive layout of a multi-page fitness application layout.
